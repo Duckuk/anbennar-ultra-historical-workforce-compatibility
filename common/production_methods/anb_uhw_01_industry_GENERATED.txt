@@ -119,8 +119,8 @@ INJECT:pm_servo_exo_arms = {
 INJECT:pm_toolbox_of_holding = {
 	building_modifiers = {
 		level_scaled = {
-			building_employment_machinists_add = -125
 			building_employment_engineers_add = -125
+			building_employment_machinists_add = -125
 		}
 	}
 }
@@ -220,18 +220,18 @@ INJECT:pm_sparkdrive_engines = {
 	building_modifiers = {
 		level_scaled = {
 			building_employment_engineers_add = -250
-			building_employment_shopkeepers_add = -250
-			building_employment_machinists_add = -750
 			building_employment_laborers_add = -1250
+			building_employment_machinists_add = -750
+			building_employment_shopkeepers_add = -250
 		}
 	}
 }
 INJECT:pm_reliquary_vehicles = {
 	building_modifiers = {
 		level_scaled = {
-			building_employment_machinists_add = -250
 			building_employment_engineers_add = -125
 			building_employment_laborers_add = -375
+			building_employment_machinists_add = -250
 		}
 	}
 }
@@ -414,9 +414,9 @@ INJECT:pm_automata_machinists_munitions = {
 INJECT:pm_patent_stills_magical_reagents = {
 	building_modifiers = {
 		level_scaled = {
-			building_employment_shopkeepers_add = -250
-			building_employment_machinists_add = -250
 			building_employment_laborers_add = -2000
+			building_employment_machinists_add = -250
+			building_employment_shopkeepers_add = -250
 		}
 	}
 }
@@ -424,35 +424,35 @@ INJECT:pm_essence_extraction_magical_reagents_workshop = {
 	building_modifiers = {
 		level_scaled = {
 			building_employment_engineers_add = -125
-			building_employment_shopkeepers_add = -250
-			building_employment_machinists_add = -625
 			building_employment_laborers_add = -1750
+			building_employment_machinists_add = -625
+			building_employment_shopkeepers_add = -250
 		}
 	}
 }
 INJECT:pm_synthetic_monster_parts_magical_reagents_workshop = {
 	building_modifiers = {
 		level_scaled = {
-			building_employment_shopkeepers_add = -250
 			building_employment_engineers_add = -250
-			building_employment_machinists_add = -750
 			building_employment_laborers_add = -1500
+			building_employment_machinists_add = -750
+			building_employment_shopkeepers_add = -250
 		}
 	}
 }
 INJECT:pm_blueblood_extraction = {
 	building_modifiers = {
 		level_scaled = {
-			building_employment_mages_add = -250
 			building_employment_laborers_add = 250
+			building_employment_mages_add = -250
 		}
 	}
 }
 INJECT:pm_blueblood_synthesis = {
 	building_modifiers = {
 		level_scaled = {
-			building_employment_laborers_add = 125
 			building_employment_engineers_add = -125
+			building_employment_laborers_add = 125
 		}
 	}
 }
@@ -488,18 +488,18 @@ INJECT:pm_assembly_lines_building_magical_reagents_workshop = {
 INJECT:pm_damestear_crystals_building_doodad_artificeries = {
 	building_modifiers = {
 		level_scaled = {
+			building_employment_engineers_add = -50
 			building_employment_laborers_add = -1450
 			building_employment_machinists_add = -500
-			building_employment_engineers_add = -50
 		}
 	}
 }
 INJECT:pm_faceted_gemstones_building_doodad_artificeries = {
 	building_modifiers = {
 		level_scaled = {
+			building_employment_engineers_add = -125
 			building_employment_laborers_add = -1300
 			building_employment_machinists_add = -575
-			building_employment_engineers_add = -125
 		}
 	}
 }
@@ -507,8 +507,8 @@ INJECT:pm_damestear_core_building_doodad_artificeries = {
 	building_modifiers = {
 		level_scaled = {
 			building_employment_engineers_add = -250
-			building_employment_machinists_add = -625
 			building_employment_laborers_add = -1125
+			building_employment_machinists_add = -625
 		}
 	}
 }
@@ -577,8 +577,8 @@ INJECT:pm_metal_frame = {
 INJECT:pm_porcelain_form = {
 	building_modifiers = {
 		level_scaled = {
-			building_employment_laborers_add = -1575
 			building_employment_engineers_add = -250
+			building_employment_laborers_add = -1575
 			building_employment_machinists_add = -625
 		}
 	}
@@ -586,17 +586,17 @@ INJECT:pm_porcelain_form = {
 INJECT:pm_precursor_steel_body = {
 	building_modifiers = {
 		level_scaled = {
-			building_employment_machinists_add = -700
 			building_employment_engineers_add = -500
 			building_employment_laborers_add = -1250
+			building_employment_machinists_add = -700
 		}
 	}
 }
 INJECT:pm_synthetic_body = {
 	building_modifiers = {
 		level_scaled = {
-			building_employment_laborers_add = -1000
 			building_employment_engineers_add = -500
+			building_employment_laborers_add = -1000
 			building_employment_machinists_add = -750
 		}
 	}
@@ -626,9 +626,9 @@ INJECT:pm_fully_awakened_building_automatories = {
 INJECT:pm_metal_frame_freedom = {
 	building_modifiers = {
 		level_scaled = {
-			building_employment_machinists_add = -200
 			building_employment_engineers_add = -50
 			building_employment_laborers_add = -200
+			building_employment_machinists_add = -200
 		}
 	}
 }
@@ -665,11 +665,11 @@ INJECT:pm_mithril_bullets = {
 INJECT:pm_artifishial_curing = {
 	building_modifiers = {
 		level_scaled = {
+			building_employment_engineers_add = -1000
+			building_employment_laborers_add = -500
 			building_employment_machinists_add = -250
 			building_employment_shopkeepers_add = -250
 			building_employment_mages_add = -500
-			building_employment_engineers_add = -1000
-			building_employment_laborers_add = -500
 		}
 	}
 }

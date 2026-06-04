@@ -1,0 +1,16 @@
+﻿INJECT:pm_automata_harvesters = {
+    building_modifiers = {
+        level_scaled = {
+            building_employment_laborers_add = -400
+        }
+    }
+}
+
+INJECT:pm_autonomous_tractors = {
+    building_modifiers = {
+        level_scaled = {
+            building_employment_laborers_add = -400
+            building_employment_farmers_add = 300
+        }
+    }
+}

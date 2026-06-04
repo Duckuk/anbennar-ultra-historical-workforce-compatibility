@@ -1,0 +1,27 @@
+﻿#INJECT:pm_chronomantic_food_preservatives = {
+#    building_modifiers = {
+#        level_scaled = {
+#            building_employment_engineers_add = -650
+#            building_employment_laborers_add = -900
+#            building_employment_machinists_add = -575
+#            building_employment_shopkeepers_add = -375
+#        }
+#    }
+#}
+
+INJECT:pm_automata_dough_processors = {
+    building_modifiers = {
+        level_scaled = {
+            building_employment_laborers_add = 750
+        }
+    }
+}
+
+INJECT:pm_automata_bakers = {
+    building_modifiers = {
+        level_scaled = {
+            building_employment_laborers_add = 750
+            building_employment_machinists_add = 650
+        }
+    }
+}

@@ -1,0 +1,269 @@
+﻿
+## Base Farming
+INJECT:pm_simple_farming = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -2000
+			building_employment_farmers_add = 1000
+		}
+	}
+}
+
+# Removed, causes error in anbennar
+#INJECT:pm_herring_meal_farming = {
+#	building_modifiers = {
+#		level_scaled = {
+#			building_employment_laborers_add = -2000
+#			building_employment_farmers_add = 1000
+#		}
+#	}
+#}
+
+INJECT:pm_soil_enriching_farming = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -1000
+		}
+	}
+}
+
+INJECT:pm_fertilization = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -250
+			building_employment_farmers_add = -750
+		}
+	}
+}
+
+INJECT:pm_chemical_fertilizer = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = 500
+			building_employment_farmers_add = -1500
+		}
+	}
+}
+
+## Tools
+
+INJECT:pm_tools = { #3200
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -400
+			building_employment_farmers_add = -400
+			building_employment_laborers_add = 1000
+		}
+		unscaled = {
+			building_throughput_add = 0.025
+		}
+	}
+}
+
+INJECT:pm_steam_threshers = { #1600
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -1650
+			building_employment_farmers_add = -750
+			building_employment_laborers_add = 1500
+		}
+		unscaled = {
+			building_throughput_add = 0.05
+		}
+	}
+}
+
+INJECT:pm_tractors = { #800
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -2400
+			building_employment_farmers_add = -800
+			building_employment_laborers_add = 2000
+		}
+		unscaled = {
+			building_throughput_add = 0.075
+		}
+	}
+}
+
+INJECT:pm_compression_ignition_tractors = { #400
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -2700
+			building_employment_farmers_add = -900
+			building_employment_laborers_add = 2500
+		}
+		unscaled = {
+			building_throughput_add = 0.1
+		}
+	}
+}
+
+## Rice base
+
+INJECT:pm_simple_farming_building_rice_farm = { 
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -4000
+			building_employment_farmers_add = 2000
+		}
+	}
+}
+
+# Removed, causes error in anbennar
+#INJECT:pm_herring_meal_farming_building_rice_farm = {
+#	building_modifiers = {
+#		level_scaled = {
+#			building_employment_laborers_add = -4000
+#			building_employment_farmers_add = 2000
+#		}
+#	}
+#}
+
+INJECT:pm_soil_enriching_farming_building_rice_farm = { 
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -2000
+		}
+	}
+}
+
+INJECT:pm_fertilization_building_rice_farm = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_farmers_add = -2000
+		}
+	}
+}
+
+INJECT:pm_chemical_fertilizer_building_rice_farm = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = 2000
+			building_employment_farmers_add = -4000
+		}
+	}
+}
+
+## Rice Tools
+
+INJECT:pm_tools_building_rice_farm = { #6400
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -800
+			building_employment_farmers_add = -800
+			building_employment_laborers_add = 2000
+		}
+		unscaled = {
+			building_throughput_add = 0.025
+		}
+	}
+}
+
+INJECT:pm_steam_threshers_building_rice_farm = { #3200
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -3300
+			building_employment_farmers_add = -1500
+			building_employment_laborers_add = 3000
+		}
+		unscaled = {
+			building_throughput_add = 0.05
+		}
+	}
+}
+
+## Ranching
+
+INJECT:pm_open_air_stockyards = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -2000
+			building_employment_farmers_add = 1000
+		}
+	}
+}
+
+INJECT:pm_butchering_tools = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -1500
+			building_employment_farmers_add = 500
+		}
+	}
+}
+
+INJECT:pm_slaughterhouses = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -750
+			building_employment_farmers_add = -250
+		}
+	}
+}
+
+INJECT:pm_mechanized_slaughtering = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -500
+			building_employment_farmers_add = -500
+		}
+	}
+}
+
+## Fences - Untouched - up to -1k laborers
+
+## Refregiration
+
+INJECT:pm_refrigerated_storage_building_livestock_ranch = { #800
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -1400
+			building_employment_machinists_add = -400
+			building_employment_farmers_add = -400
+			building_employment_laborers_add = 500
+		}
+		unscaled = {
+			building_throughput_add = 0.075
+		}
+	}
+}
+
+INJECT:pm_refrigerated_rail_cars_building_livestock_ranch = { #400
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -1700
+			building_employment_machinists_add = -450
+			building_employment_farmers_add = -450
+			building_employment_laborers_add = 1000
+		}
+		unscaled = {
+			building_throughput_add = 0.1
+		}
+	}
+}
+
+## Wine
+
+INJECT:default_building_vineyard = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -1000
+		}
+	}
+}
+
+INJECT:automatic_irrigation_building_vineyard = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -750
+			building_employment_farmers_add = -1000
+			building_employment_machinists_add = -250
+		}
+	}
+}
+
+
+
+
+

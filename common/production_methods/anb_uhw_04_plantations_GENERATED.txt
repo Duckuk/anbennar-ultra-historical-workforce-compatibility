@@ -1,0 +1,140 @@
+﻿INJECT:pm_genetically_transmuted_organisms_coffee_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -125
+		}
+	}
+}
+INJECT:pm_chronoponics_coffee_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -250
+		}
+	}
+}
+INJECT:pm_genetically_transmuted_organisms_cotton_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -125
+		}
+	}
+}
+INJECT:pm_chronoponics_cotton_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -250
+		}
+	}
+}
+INJECT:pm_genetically_transmuted_organisms_dye_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -125
+		}
+	}
+}
+INJECT:pm_chronoponics_dye_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -250
+		}
+	}
+}
+INJECT:pm_genetically_transmuted_organisms_opium_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -125
+		}
+	}
+}
+INJECT:pm_chronoponics_opium_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -250
+		}
+	}
+}
+INJECT:pm_genetically_transmuted_organisms_tea_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -125
+		}
+	}
+}
+INJECT:pm_chronoponics_tea_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -250
+		}
+	}
+}
+INJECT:pm_genetically_transmuted_organisms_tobacco_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -125
+		}
+	}
+}
+INJECT:pm_chronoponics_tobacco_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -250
+		}
+	}
+}
+INJECT:pm_genetically_transmuted_organisms_sugar_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -125
+		}
+	}
+}
+INJECT:pm_chronoponics_sugar_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -250
+		}
+	}
+}
+INJECT:pm_genetically_transmuted_organisms_banana_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -125
+		}
+	}
+}
+INJECT:pm_chronoponics_banana_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -250
+		}
+	}
+}
+INJECT:pm_genetically_transmuted_organisms_silk_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -125
+		}
+	}
+}
+INJECT:pm_chronoponics_silk_plantation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -250
+		}
+	}
+}
+INJECT:pm_genetically_transmuted_organisms_vineyard = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -125
+		}
+	}
+}
+INJECT:pm_chronoponics_vineyard = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -250
+		}
+	}
+}

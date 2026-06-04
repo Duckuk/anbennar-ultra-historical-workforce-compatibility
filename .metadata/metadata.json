@@ -1,0 +1,25 @@
+{
+  "name": "Anbennar-Ultra Historical Workforce Compatibility",
+  "id": "com.duck.anbennar-uhw-patch",
+  "version": "1.0",
+  "supported_game_version": "1.13.*",
+  "short_description": "Anbennar-Ultra Historical Workforce compatibility",
+  "tags": [],
+  "relationships": [
+    {
+      "rel_type": "dependency",
+      "id": "org.anbennar.based",
+      "display_name": "Anbennar: A Fantasy Total Conversion",
+      "resource_type": "mod",
+      "version": "1.1.*"
+    },
+    {
+      "rel_type": "load_after",
+      "id": "org.anbennar.based",
+      "display_name": "Anbennar: A Fantasy Total Conversion",
+      "resource_type": "mod",
+      "version": "1.1.*"
+    }
+  ],
+  "game_id": "victoria3"
+}

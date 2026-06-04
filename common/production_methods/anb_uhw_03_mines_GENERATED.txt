@@ -1,0 +1,467 @@
+﻿INJECT:pm_subterrenes_coal_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_subterrenes_iron_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_subterrenes_lead_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_subterrenes_sulfur_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_subterrenes_gold_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_picks_and_shovels_building_mithril_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = 500
+			building_employment_laborers_add = -3500
+		}
+	}
+}
+INJECT:pm_atmospheric_engine_pump_building_mithril_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -2000
+			building_employment_machinists_add = -300
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_condensing_engine_pump_building_mithril_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -1500
+			building_employment_machinists_add = -600
+			building_employment_engineers_add = -400
+		}
+	}
+}
+INJECT:pm_diesel_pump_building_mithril_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -750
+			building_employment_machinists_add = -1100
+			building_employment_engineers_add = -650
+		}
+	}
+}
+INJECT:pm_nitroglycerin_building_mithril_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_dynamite_building_mithril_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_picks_and_shovels_building_gem_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = 500
+			building_employment_laborers_add = -3500
+		}
+	}
+}
+INJECT:pm_atmospheric_engine_pump_building_gem_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -2000
+			building_employment_machinists_add = -300
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_condensing_engine_pump_building_gem_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -1500
+			building_employment_machinists_add = -600
+			building_employment_engineers_add = -400
+		}
+	}
+}
+INJECT:pm_diesel_pump_building_gem_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -750
+			building_employment_machinists_add = -1100
+			building_employment_engineers_add = -650
+		}
+	}
+}
+INJECT:pm_nitroglycerin_building_gem_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_dynamite_building_gem_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_subterrenes_building_gem_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_picks_and_shovels_building_damestear_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = 500
+			building_employment_laborers_add = -3500
+		}
+	}
+}
+INJECT:pm_atmospheric_engine_pump_building_damestear_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -2000
+			building_employment_machinists_add = -300
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_condensing_engine_pump_building_damestear_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -1500
+			building_employment_machinists_add = -600
+			building_employment_engineers_add = -400
+		}
+	}
+}
+INJECT:pm_diesel_pump_building_damestear_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -750
+			building_employment_machinists_add = -1100
+			building_employment_engineers_add = -650
+		}
+	}
+}
+INJECT:pm_nitroglycerin_building_damestear_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_dynamite_building_damestear_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_subterrenes_damestear_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_mage_surveillor_building_damestear_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_mages_add = -300
+		}
+	}
+}
+INJECT:pm_damestear_stabilization_building_damestear_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_mages_add = -150
+			building_employment_engineers_add = -150
+		}
+	}
+}
+INJECT:pm_porcelain_insulation_damestear_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_engineers_add = -300
+		}
+	}
+}
+INJECT:pm_picks_and_shovels_building_flawless_metal_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = 500
+			building_employment_laborers_add = -3500
+		}
+	}
+}
+INJECT:pm_atmospheric_engine_pump_building_flawless_metal_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -2000
+			building_employment_machinists_add = -300
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_condensing_engine_pump_building_flawless_metal_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -1500
+			building_employment_machinists_add = -600
+			building_employment_engineers_add = -400
+		}
+	}
+}
+INJECT:pm_diesel_pump_building_flawless_metal_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -500
+			building_employment_laborers_add = -750
+			building_employment_machinists_add = -1100
+			building_employment_engineers_add = -650
+		}
+	}
+}
+INJECT:pm_nitroglycerin_building_flawless_metal_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_dynamite_building_flawless_metal_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_subterrenes_flawless_metal_mine = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -50
+			building_employment_engineers_add = -200
+		}
+	}
+}
+INJECT:pm_fire_elemental_forges = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_engineers_add = -150
+		}
+	}
+}
+INJECT:pm_hypercharged_electric_arc_forges = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_engineers_add = -150
+		}
+	}
+}
+INJECT:pm_dense_medium_separation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = 900
+		}
+	}
+}
+INJECT:pm_froth_flotation = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = 1200
+			building_employment_machinists_add = 600
+		}
+	}
+}
+INJECT:default_building_dungeons = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -300
+			building_employment_soldiers_add = -1200
+			building_employment_officers_add = -300
+		}
+	}
+}
+INJECT:default_building_dungeons_quarantined = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_officers_add = -150
+			building_employment_soldiers_add = -600
+			building_employment_shopkeepers_add = -150
+			building_employment_laborers_add = -900
+		}
+	}
+}
+INJECT:pm_time_honored_lava_extraction = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -150
+			building_employment_laborers_add = -2550
+			building_employment_shopkeepers_add = -300
+		}
+	}
+}
+INJECT:pm_lava_production_2 = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = -2100
+			building_employment_machinists_add = -450
+			building_employment_engineers_add = -150
+			building_employment_shopkeepers_add = -300
+		}
+	}
+}
+INJECT:pm_lava_production_3 = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_engineers_add = -300
+			building_employment_shopkeepers_add = -300
+			building_employment_machinists_add = -750
+			building_employment_laborers_add = -1650
+		}
+	}
+}
+INJECT:pm_lava_production_4 = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -1050
+			building_employment_shopkeepers_add = -300
+			building_employment_engineers_add = -450
+			building_employment_laborers_add = -1200
+		}
+	}
+}
+INJECT:pm_smiths_quarters_1 = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -300
+			building_employment_engineers_add = -60
+			building_employment_machinists_add = -1080
+			building_employment_mages_add = -60
+		}
+	}
+}
+INJECT:pm_smiths_quarters_2 = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_shopkeepers_add = -300
+			building_employment_machinists_add = -900
+			building_employment_engineers_add = -300
+		}
+	}
+}
+INJECT:pm_smiths_quarters_3 = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -750
+			building_employment_shopkeepers_add = -300
+			building_employment_engineers_add = -450
+		}
+	}
+}
+INJECT:pm_artisans_quarters_1 = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_mages_add = -150
+			building_employment_laborers_add = -1050
+			building_employment_shopkeepers_add = -300
+		}
+	}
+}
+INJECT:pm_artisans_quarters_2 = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_engineers_add = -30
+			building_employment_laborers_add = -900
+			building_employment_shopkeepers_add = -300
+			building_employment_machinists_add = -270
+		}
+	}
+}
+INJECT:pm_artisans_quarters_3 = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_machinists_add = -450
+			building_employment_laborers_add = -600
+			building_employment_engineers_add = -150
+			building_employment_shopkeepers_add = -300
+		}
+	}
+}
+INJECT:pm_fire_elementals = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = 600
+		}
+	}
+}
+INJECT:pm_artifical_wyrm_scales = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = 900
+		}
+	}
+}
+INJECT:pm_wyrm_golems = {
+	building_modifiers = {
+		level_scaled = {
+			building_employment_laborers_add = 1800
+		}
+	}
+}

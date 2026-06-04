@@ -1,0 +1,40 @@
+﻿INJECT:pm_automata_loggers = {
+    building_modifiers = {
+        level_scaled = {
+            building_employment_laborers_add = 0
+        }
+    }
+}
+
+INJECT:pm_automata_miners = {
+    building_modifiers = {
+        level_scaled = {
+            building_employment_laborers_add = 750
+        }
+    }
+}
+
+INJECT:pm_automata_foremen = {
+    building_modifiers = {
+        level_scaled = {
+            building_employment_laborers_add = 0
+            building_employment_machinists_add = 1100
+        }
+    }
+}
+
+INJECT:pm_transmute_to_gold_building_lead_mine = {
+    building_modifiers = {
+        level_scaled = {
+            building_employment_mages_add = -125
+        }
+    }
+}
+
+INJECT:pm_pathway_aurification_building_lead_mine = {
+    building_modifiers = {
+        level_scaled = {
+            building_employment_engineers_add = -110
+        }
+    }
+}
